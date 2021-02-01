@@ -1,0 +1,6 @@
+/venv/
+/cert.crt
+/cert.key
+/db.sqlite3
+/bookmarks/.env
+/media/
